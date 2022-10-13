@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on [Sword Art Online User Interface²](https://github.com/thealzhe/sao-ui-2) project (a Minecraft Mod).
 - 🤔 I’m looking for help with [Sword Art Online User Interface²](https://github.com/thealzhe/sao-ui-2) project (a Minecraft Mod).
 - ⚡ Fun fact: i LOVE Battlestar Galactica.
+- ⛏️ I worked on [Essentials 2.19.7 custom french localization file](https://github.com/thealzhe/thealzhe/blob/main/messages_fralz.properties).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thealzhe&label=Profile%20views&color=0e75b6&style=flat" alt="thealzhe" /> </p>
 
