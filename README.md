@@ -1,15 +1,33 @@
-### Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 🔭 I’m currently working on [Sword Art Online User Interface²](https://github.com/thealzhe/sao-ui-2) (a Minecraft Mod).
-- 👯 I’m looking to collaborate on [Sword Art Online User Interface²](https://github.com/thealzhe/sao-ui-2) project (a Minecraft Mod).
-- 🤔 I’m looking for help with [Sword Art Online User Interface²](https://github.com/thealzhe/sao-ui-2) project (a Minecraft Mod).
-- ⚡ Fun fact: i LOVE Battlestar Galactica.
-- ⛏️ I worked on [Essentials 2.19.7 custom french localization file](https://github.com/thealzhe/thealzhe/blob/main/messages_fralz.properties).
-
-#### <img src="https://cdn.discordapp.com/emojis/1030305800788385852.webp" width="25px"> #RascalSupremacy
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thealzhe&label=Profile%20views&color=0e75b6&style=flat" alt="thealzhe" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thealzhe&no-frame=true&&no-bg=true" alt="thealzhe" /></a> </p>
+# <img src="https://cdn.discordapp.com/emojis/1030305800788385852.webp" width="45px"> [#RascalSupremacy](https://www.minecraft.net/fr-fr/live)
+<img src="https://github-profile-trophy.vercel.app/?username=thealzhe&no-frame=true&&no-bg=true" alt="thealzhe"/>
 
 ![Metrics](/github-metrics.svg)
+
+---
+
+[s-released]: https://shields.io/badge/STATUS-RELEASED-brightgreen
+[s-working]: https://shields.io/badge/STATUS-WORKING-green
+[s-wip]: https://img.shields.io/badge/STATUS-WORK_IN_PROGRESS-yellow
+[s-discontinued]: https://img.shields.io/badge/STATUS-DISCONTINUED-red
+
+# 📰 My Projects
+
+### 🧊 Minecraft Related Projects
+#### ⚔️ [Sword Art Online - User Interface²](https://github.com/thealzhe/sao-ui-2)
+![STATUS][s-wip]
+
+#### 💬 [AutoBroadcaster](https://github.com/thealzhe/MC-ABC)
+![STATUS][s-wip]
+
+### 🔩 Other Projects
+#### 🧪 [Enhanced Meth Lab - Garry's Mod - DarkRP](https://github.com/thealzhe/gmod-eml)
+![STATUS][s-released]
+
+#### 🏎️ [AlzhecorpiaV - GTA V - FiveM Serverfiles](https://github.com/thealzhe/AlzhecorpiaV)
+![STATUS][s-working]
+
+#### 🤖 [Discord JS Bot Template](https://github.com/thealzhe/djsbt)
+![STATUS][s-released]
+
+#### [alzhe.tv](https://github.com/thealzhe/alzhe.tv), [alzhecorporation.fr](https://github.com/thealzhe/alzhecorporation.fr) and [thealzhe](https://github.com/thealzhe/thealzhe)'s repositories.
+![STATUS][s-working]
