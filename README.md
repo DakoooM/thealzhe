@@ -17,7 +17,7 @@
 ![STATUS][s-wip]
 
 #### 💬 [AutoBroadcaster](https://github.com/thealzhe/MC-ABC)
-![STATUS][s-wip]
+![STATUS][s-released]
 
 ### 🔩 Other Projects
 #### 🧪 [Enhanced Meth Lab - Garry's Mod - DarkRP](https://github.com/thealzhe/gmod-eml)
