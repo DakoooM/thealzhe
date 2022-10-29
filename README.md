@@ -1,4 +1,7 @@
-# <img src="https://cdn.discordapp.com/emojis/1030305800788385852.webp" width="45px"> [#RascalSupremacy](https://www.minecraft.net/fr-fr/live)
+# Welcome to thealzhe's profile!
+![Discord](https://img.shields.io/discord/1027999605125816401) ![Sponsors](https://img.shields.io/github/sponsors/thealzhe) ![License](https://img.shields.io/github/license/thealzhe/thealzhe) ![GitHub Stars](https://img.shields.io/github/stars/thealzhe?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER) ![Twitch](https://img.shields.io/twitch/status/thealzhe) ![YouTube](https://img.shields.io/youtube/channel/views/UCQDjWD4bkeBtWYTuT6Ht1qw)
+
+
 <img src="https://github-profile-trophy.vercel.app/?username=thealzhe&no-frame=true&&no-bg=true" alt="thealzhe"/>
 
 ![Metrics](/github-metrics.svg)
