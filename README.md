@@ -1,4 +1,5 @@
 # Welcome to thealzhe's profile!
+#### [You're from NameMC staff or user ? Please READ THIS.](https://github.com/thealzhe/namemc-advice)
 ![Discord](https://img.shields.io/discord/1027999605125816401) ![Sponsors](https://img.shields.io/github/sponsors/thealzhe) ![License](https://img.shields.io/github/license/thealzhe/thealzhe) ![GitHub Stars](https://img.shields.io/github/stars/thealzhe?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER) ![Twitch](https://img.shields.io/twitch/status/thealzhe) ![YouTube](https://img.shields.io/youtube/channel/views/UCQDjWD4bkeBtWYTuT6Ht1qw)
 
 
