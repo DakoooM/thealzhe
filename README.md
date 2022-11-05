@@ -18,10 +18,10 @@
 
 ### 🧊 Minecraft Related Projects
 #### ⚔️ [Sword Art Online - User Interface²](https://github.com/thealzhe/sao-ui-2)
-![STATUS][s-discontinued]
+![STATUS][s-wip]
 
 #### 💬 [AutoBroadcaster](https://github.com/thealzhe/MC-ABC)
-![STATUS][s-released]
+![STATUS][s-discontinued]
 
 ### 🔩 Other Projects
 #### 🧪 [Enhanced Meth Lab - Garry's Mod - DarkRP](https://github.com/thealzhe/gmod-eml)
