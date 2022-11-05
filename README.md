@@ -18,7 +18,7 @@
 
 ### 🧊 Minecraft Related Projects
 #### ⚔️ [Sword Art Online - User Interface²](https://github.com/thealzhe/sao-ui-2)
-![STATUS][s-wip]
+![STATUS][s-discontinued]
 
 #### 💬 [AutoBroadcaster](https://github.com/thealzhe/MC-ABC)
 ![STATUS][s-released]
